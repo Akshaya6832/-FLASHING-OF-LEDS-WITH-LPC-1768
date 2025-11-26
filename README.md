@@ -10,8 +10,6 @@ LED
 ## SOFTWARE:
 KEIL MICRO VISION 4.0 IDE
 
-# PROCEDURE:
-
 ## Procedure
 
 1. Open the **Keil µVision** software and select **New µVision Project** from the **Project** menu.
